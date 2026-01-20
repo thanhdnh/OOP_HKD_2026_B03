@@ -12,3 +12,4 @@
 /Users/hoangthanh/OOP_HKD_2026/B03/obj/Debug/net9.0/B03.pdb
 /Users/hoangthanh/OOP_HKD_2026/B03/obj/Debug/net9.0/B03.genruntimeconfig.cache
 /Users/hoangthanh/OOP_HKD_2026/B03/obj/Debug/net9.0/ref/B03.dll
+/Users/hoangthanh/OOP_HKD_2026/B03/obj/Debug/net9.0/B03.sourcelink.json

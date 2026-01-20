@@ -41,6 +41,8 @@ public class Program
         Console.WriteLine(emp.GetInfos());*/
 
         Shape rec = new Rectangle(3, 4);
+        //rec.ShowInfo();
+
         Shape round = new Round(3);
         Console.WriteLine($"Chu vi HCN: {rec.TinhChuVi()}");
         Console.WriteLine($"Dien tich HCN: {rec.TinhDienTich()}");
@@ -71,6 +73,10 @@ public class Rectangle : Shape
     public override float TinhDienTich()
     {
         return w * h;
+    }
+    public string ShowInfo()
+    {
+        return "Rectangle";
     }
 }
 public class Round : Shape
