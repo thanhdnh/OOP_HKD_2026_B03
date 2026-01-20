@@ -35,8 +35,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        /*Human h = new Human("Nam", new DateTime(), true);
-        Employee emp = new Employee("Hoa", new DateTime(), false, "EMP001", 4.5f, new DateTime());
+        /*Human h = new Human("Nam", new DateTime(1990, 4, 5), true);
+        Employee emp = new Employee("Hoa", new DateTime(1992, 5, 7), false, "EMP001", 4.5f, new DateTime(2019, 4, 3));
         Console.WriteLine(h.GetInfos());
         Console.WriteLine(emp.GetInfos());*/
 
